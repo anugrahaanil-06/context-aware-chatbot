@@ -38,10 +38,9 @@ context-aware-chatbot/
 
 │── README.md
 
-
 ## Installation & Setup
 
-### 1. Clone the repository
+### **1. Clone the Repository**
 ```bash
 git clone https://github.com/anugrahaanil-06/context-aware-chatbot.git
 cd context-aware-chatbot
