@@ -39,10 +39,9 @@ context-aware-chatbot/
 │── README.md
 
 
-# Installation & Setup
+## Installation & Setup
 
-## 1. Clone the repository
-
+### 1. Clone the repository
 ```bash
 git clone https://github.com/anugrahaanil-06/context-aware-chatbot.git
 cd context-aware-chatbot
@@ -77,7 +76,7 @@ This demonstrates context awareness and memory.
 - Prompt engineering (anti-hallucination, clarification)
 - LLM API integration
 
-#Demo Link
+# Demo Link
 
 (Add your demo video link here)
 
