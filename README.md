@@ -2,7 +2,7 @@
 
 An AI-powered chatbot that maintains conversation history, understands context across multiple turns and generates intelligent non-repetitive responses using LLM APIs.
 
-# Features
+## Features
 
 - **Context Awareness**  
   Understands follow-up questions (e.g., “its advantages” refers to the previous topic)
@@ -21,29 +21,33 @@ An AI-powered chatbot that maintains conversation history, understands context a
 - **Interactive UI**  
   Built using Streamlit for a simple and clean interface
 
-# Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit** (Frontend UI)
 - **OpenRouter API** (LLM access – free models)
 - **Requests** (API calls)
 
-# Project Structure
+## Project Structure
 
 context-aware-chatbot/
+
 │── app.py
+
 │── requirements.txt
+
 │── README.md
+
 
 # Installation & Setup
 
-# 1. Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/anugrahaanil-06/context-aware-chatbot.git
 cd context-aware-chatbot
 
-# 2. Install dependencies
+## 2. Install dependencies
 
 pip install -r requirements.txt
 
@@ -73,11 +77,11 @@ This demonstrates context awareness and memory.
 - Prompt engineering (anti-hallucination, clarification)
 - LLM API integration
 
-# Demo Link
+#Demo Link
 
 (Add your demo video link here)
 
-# Author
+**Author**
 
 Anugraha AL  
 https://github.com/anugrahaanil-06
